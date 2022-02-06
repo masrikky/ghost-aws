@@ -64,6 +64,8 @@ If you install on another VPS provider, this step is also similar (most VPS prov
 18. Login to Ghost dashboard, you can create new post or design your site here.
 19. Finish.
 
+Note : See **img** folder for screen capture.
+
 
 ### Easy way
 ---
